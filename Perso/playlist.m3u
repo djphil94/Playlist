@@ -133,16 +133,11 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
 
 #EXTINF:0,87 - Sky News International (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
-
-#EXTINF:0,89 - CNBC (standard)
-
 #
 EXTINF:0,95 - France 24 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
 
 #EXTINF:0,100 - beinHD Sport 1 FR
-
-
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/290.m3u8
 #EXTINF:0,101 - beinHD Sport 2 FR
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/289.m3u8
