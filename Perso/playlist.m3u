@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 
 #EXTINF:0,1 - TF1 HD
@@ -133,6 +133,21 @@ http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/1985.m3u8
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/287.m3u8
 #EXTINF:0,119 - Disney Cinemagic
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4778.m3u8
+#EXTINF:0,120 - OCS City
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4725.m3u8
+#EXTINF:0,121 - OCS Geant HD
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4724.m3u8
+#EXTINF:0,122 - OCS Choc HD
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4723.m3u8
+#EXTINF:0,123 - Cine Premier HD
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4726.m3u8
+#EXTINF:0,124 - Cine Emotion HD
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4727.m3u8
+#EXTINF:0,125 - Cine Frisson HD
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4728.m3u8
+#EXTINF:0,126 - Cine Famiz HD
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4729.m3u8
+
 #EXTINF:0,180 - Game One (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
 
