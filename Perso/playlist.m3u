@@ -10,7 +10,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
 
 #EXTINF:0,4 - CANAL + HD
-
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/262.m3u8
 #EXTINF:0,5 - France 5 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
@@ -21,6 +20,9 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
 
 #EXTINF:0,8 - D8 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=hd
+
+#EXTINF:0,9 - W9
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4743.m3u8
 
 #EXTINF:0,10 - TMC (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
@@ -147,6 +149,13 @@ http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4727.m3u8
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4728.m3u8
 #EXTINF:0,126 - Cine Famiz HD
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4729.m3u8
+#EXTINF:0,127 - Serie Club
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4740.m3u8
+
+#EXTINF:0,160 - Disney Channel
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4777.m3u8
+#EXTINF:0,161 - Disney Junior
+http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4779.m3u8
 
 #EXTINF:0,180 - Game One (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
