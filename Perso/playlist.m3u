@@ -1,0 +1,177 @@
+﻿#EXTM3U
+
+
+#EXTINF:0,1 - TF1 HD
+
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/271.m3u8
+#EXTINF:0,2 - France 2 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
+
+#EXTINF:0,3 - France 3 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
+
+#EXTINF:0,4 - CANAL + HD
+
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/262.m3u8
+#EXTINF:0,5 - France 5 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
+#EXTINF:0,6 - M6 HD
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/272.m3u8
+#EXTINF:0,7 - Arte (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
+
+#EXTINF:0,8 - D8 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=hd
+
+#EXTINF:0,10 - TMC (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497
+
+#EXTINF:0,11 - NT1 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374
+
+#EXTINF:0,12 - NRJ 12 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=hd
+
+#EXTINF:0,13 - La Chaîne Parlementaire (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=sd
+
+#EXTINF:0,14 - France 4 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=hd
+
+#EXTINF:0,15 - BFM TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=hd
+
+#EXTINF:0,16 - i> TELE (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=hd
+
+#EXTINF:0,17 - D17 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=sd
+
+#EXTINF:0,19 - France Ô (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238&flavour=sd
+
+#EXTINF:0,21 - L'Equipe 21 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=hd
+
+#EXTINF:0,23 - Numéro 23 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
+
+#EXTINF:0,24 - RMC Découverte (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=hd
+
+#EXTINF:0,25 - Chérie 25 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
+
+#EXTINF:0,26 - Paris Première (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=hd
+
+#EXTINF:0,27 - TEVA (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=hd
+
+#EXTINF:0,28 - RTL9 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=sd
+
+#EXTINF:0,39 - AB 1 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=hd
+
+#EXTINF:0,60 - M6 Music (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=430&flavour=sd
+
+#EXTINF:0,61 - M6 Music Club (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=431&flavour=sd
+
+#EXTINF:0,62 - M6 Music Black (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=432&flavour=sd
+
+#EXTINF:0,63 - Trace Tropical (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=sd
+
+#EXTINF:0,64 - Trace Urban (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=sd
+
+#EXTINF:0,65 - NRJ Hits (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=620&flavour=hd
+
+#EXTINF:0,66 - Game One Music HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=799&flavour=hd
+
+#EXTINF:0,68 - Mezzo (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=265&flavour=sd
+
+#EXTINF:0,69 - Mezzo Live HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=858&flavour=hd
+
+#EXTINF:0,70 - MCM (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=sd
+
+#EXTINF:0,71 - MCM TOP (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=622&flavour=sd
+
+#EXTINF:0,72 - MCM POP (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623&flavour=sd
+
+#EXTINF:0,73 - Clubbing TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
+
+#EXTINF:0,79 - TV5 Monde (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
+
+#EXTINF:0,80 - BFM Business (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
+
+#EXTINF:0,81 - Euronews Int (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
+
+#EXTINF:0,82 - Euronews (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
+
+#EXTINF:0,83 - Bloomberg TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=207&flavour=sd
+
+#EXTINF:0,85 - Al Jazeera International (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=494&flavour=sd
+
+#EXTINF:0,87 - Sky News International (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=355&flavour=sd
+
+#EXTINF:0,89 - CNBC (standard)
+
+#
+EXTINF:0,95 - France 24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
+
+#EXTINF:0,100 - beinHD Sport 1 FR
+
+
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/290.m3u8
+#EXTINF:0,101 - beinHD Sport 2 FR
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/289.m3u8
+#EXTINF:0,102 - beinHD Sport 3 FR
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/717.m3u8
+#EXTINF:0,103 - Sport TV 1
+http://teuportal.dyndns.org:8000/live/pedro/pedro/214.m3u8
+#EXTINF:0,104 - Sport TV 2
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/415.m3u8
+#EXTINF:0,105 - CANAL + SPORT HD
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/535.m3u8
+#EXTINF:0,115 - Canal + Decale HD
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/751.m3u8
+#EXTINF:0,116 - Canal + Series HD
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/752.m3u8
+#EXTINF:0,117 - Canal + Family HD
+http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/1985.m3u8
+#EXTINF:0,118 - CANAL + CINEMA HD
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/287.m3u8
+#EXTINF:0,119 - Disney Cinemagic
+http://www.t12v.com:8000/live/angelo/angelo/901.m3u8
+#EXTINF:0,120 - Game One (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
+
+#EXTINF:0,121 - Lucky Jack (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=hd
+
+#EXTINF:0,123 - Nolife (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=658&flavour=hd
+
+#EXTINF:0,124 - GONG (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=hd
