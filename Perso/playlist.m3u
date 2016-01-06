@@ -80,9 +80,9 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767
 
 #EXTINF:0,100 - beinHD Sport 1 FR
-http://213.136.90.30:8000/live/christop/christop/9494.m3u8
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/290.m3u8
 #EXTINF:0,101 - beinHD Sport 2 FR
-@@ -118,11 +87,30 @@ http://skyiptv.ddns.net:8000/live/unit1315/6521878/289.m3u8
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/289.m3u8
 #EXTINF:0,102 - beinHD Sport 3 FR
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/717.m3u8
 #EXTINF:0,103 - Sport TV 1
@@ -114,14 +114,12 @@ http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4754.m3u8
 #EXTINF:0,115 - Canal + Decale HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/751.m3u8
 #EXTINF:0,116 - Canal + Series HD
-@@ -130,17 +118,170 @@ http://skyiptv.ddns.net:8000/live/unit1315/6521878/752.m3u8
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/752.m3u8
 #EXTINF:0,117 - Canal + Family HD
 http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/1985.m3u8
 #EXTINF:0,118 - CANAL + CINEMA HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/287.m3u8
 #EXTINF:0,119 - Disney Cinemagic
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/291.m3u8
-#EXTINF:0,1&9 - Disney Cinemagic
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4778.m3u8
 #EXTINF:0,120 - OCS City
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4725.m3u8
