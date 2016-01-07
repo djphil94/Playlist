@@ -14,7 +14,7 @@ http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/2510.m3u8
 #EXTINF:0,7 - Arte (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
 #EXTINF:0,8 - D8 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5096.m3u8
 #EXTINF:0,9 - W9
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/287.m3u8
 #EXTINF:0,10 - TMC (auto)
@@ -120,17 +120,17 @@ http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/1985.m3u8
 #EXTINF:0,118 - CANAL + CINEMA HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/287.m3u8
 #EXTINF:0,119 - Disney Cinemagic
-http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4778.m3u8
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/4678.m3u8
 #EXTINF:0,120 - OCS City
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4725.m3u8
-#EXTINF:0,121 - OCS Max HD
+#EXTINF:0,121 - OCS Max
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4722.m3u8
 #EXTINF:0,122 - OCS Geant HD
-http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4724.m3u8
-#EXTINF:0,123 - OCS Choc HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5033.m3u8
+#EXTINF:0,123 - OCS Choc
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4723.m3u8
-#EXTINF:0,124 - Cine Premier HD
-http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4726.m3u8
+#EXTINF:0,124 - Cine Premier
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3692.m3u8
 #EXTINF:0,125 - Cine Emotion HD
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4727.m3u8
 #EXTINF:0,126 - Cine Frisson HD
