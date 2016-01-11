@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,1 - TF1 HD
-http://cdn.step-tv.com:8000/live/363636/363636/214.m3u8
+http://satloveriptv.com:8090/live/pakistan/pakistan/3992.m3u8
 #EXTINF:0,2 - France 2 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201
 #EXTINF:0,3 - France 3 (HD)
@@ -82,26 +82,26 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767
 #EXTINF:0,100 - beinHD Sport 1 FR
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/290.m3u8
 #EXTINF:0,101 - beinHD Sport 2 FR
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/289.m3u8
+http://satloveriptv.com:8090/live/pakistan/pakistan/3962.m3u8
 #EXTINF:0,102 - beinHD Sport 3 FR
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/717.m3u8
 #EXTINF:0,103 - Sport TV 1
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/28.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/32.m3u8
 #EXTINF:0,104 - Sport TV 2
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/415.m3u8
 #EXTINF:0,105 - CANAL + SPORT HD
 #EXTINF:0,105 SPORT TV 3 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/30.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/34.m3u8
 #EXTINF:0,106 SPORT TV 4 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/31.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/35.m3u8
 #EXTINF:0,107 SPORT TV 5 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/32.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/36.m3u8
 #EXTINF:0,108 BENFICA TV 1 HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/416.m3u8
 #EXTINF:0,109 BENFICA TV 2 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/718.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/28.m3u8
 #EXTINF:0,110 SPORTING TV
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/34.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/37.m3u8
 #EXTINF:0,111 - CANAL + SPORT HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/535.m3u8
 #EXTINF:0,112 - Ma Chaine Sport HD
@@ -170,9 +170,9 @@ http://skyiptv.ddns.net:8000/live/unit1315/6521878/674.m3u8
 #EXTINF:0,206 SIC NOTICIAS
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/424.m3u8
 #EXTINF:0,207 TVI 24
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/7.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/12.m3u8
 #EXTINF:0,208 TVI FICCAO
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/298.m3u8
+http://painel.soeu.ws:8000/live/artur/artur/213.m3u8
 #EXTINF:0,209 TVI REALITY
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/254.m3u8
 #EXTINF:0,210 CMTV
@@ -186,19 +186,19 @@ http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/297.m3u8
 #EXTINF:0,214 SIC CARAS
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/258.m3u8
 #EXTINF:0,215 SIC RADICAL
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/151.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/14.m3u8
 #EXTINF:0,216 SIC MULHER
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/171.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/13.m3u8
 #EXTINF:0,217 SIC KIDS
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/425.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/21.m3u8
 #EXTINF:0,218 PANDA BIGGS
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/162.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/18.m3u8
 #EXTINF:0,219 DISNEY CHANNEL
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/10.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/16.m3u8
 #EXTINF:0,220 DISNEY JR
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/50.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/17.m3u8
 #EXTINF:0,221 CARTOON NETWORK
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/12.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/44.m3u8
 #EXTINF:0,222 CANAL PANDA
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/438.m3u8
 #EXTINF:0,223 NICKELODEON
@@ -206,15 +206,15 @@ http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/49.m3u8
 #EXTINF:0,224 JIM JAM
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/179.m3u8
 #EXTINF:0,225 BABY TV
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/229.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/20.m3u8
 #EXTINF:0,226 E! ENTERTAINMENT
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/239.m3u8
 #EXTINF:0,227 CBS REALITY
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/238.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/45.m3u8
 #EXTINF:0,228 FOX COMEDY
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/227.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/41.m3u8
 #EXTINF:0,230 TLC
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/279.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/58.m3u8
 #EXTINF:0,231 TRAVEL TV
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/299.m3u8
 #EXTINF:0,232 ODISSEIA
@@ -226,7 +226,7 @@ http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/284.m3u8
 #EXTINF:0,235 24H KITCHEN HD
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/181.m3u8
 #EXTINF:0,236 NATIONAL GEOGRAPHIC HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/431.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/86.m3u8
 #EXTINF:0,237 DISCOVERY SHOWCASE HD
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/160.m3u8
 #EXTINF:0,238 DISCOVERY CHANNEL
@@ -246,19 +246,19 @@ http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/225.m3u8
 #EXTINF:0,245 PORTO CANAL
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/35.m3u8
 #EXTINF:0,246 AXN HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/37.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/88.m3u8
 #EXTINF:0,247 AXN WHITE HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/695.m3u8
 #EXTINF:0,248 AXN BLACK HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/46.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/82.m3u8
 #EXTINF:0,249 FOX HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/434.m3u8
 #EXTINF:0,250 FOX LIFE HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/152.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/85.m3u8
 #EXTINF:0,251 FOX CRIME HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/44.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/84.m3u8
 #EXTINF:0,252 FOX MOVIES
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/104.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/59.m3u8
 #EXTINF:0,253 TVCINE 1 HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/421.m3u8
 #EXTINF:0,254 TVCINE 2 HD
@@ -268,15 +268,15 @@ http://skyiptv.ddns.net:8000/live/unit1315/6521878/419.m3u8
 #EXTINF:0,256 TVCINE 4 HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/418.m3u8
 #EXTINF:0,257 TVSERIES HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/6.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/38.m3u8
 #EXTINF:0,258 MOV HD
 http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/190.m3u8
 #EXTINF:0,259 CINEMUNDO
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/443.m3u8
 #EXTINF:0,260 HOLLYWOOD HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/13.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/25.m3u8
 #EXTINF:0,261 AMC
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/237.m3u8
+http://iptv.temnet.pt:8000/live/manuel/manuel/22.m3u8
 
 #EXTINF:0,1000 - TF1 bis
 http://151.80.30.185:8000/live/mattia/mattia/1588.m3u8
