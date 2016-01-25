@@ -158,125 +158,181 @@ http://cdn.step-tv.com:8000/live/363636/363636/254.m3u8
 http://cdn.step-tv.com:8000/live/363636/363636/511.m3u8
 
 #EXTINF:0,201 RTP 1
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/428.m3u8
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/62.‬m3u8
 #EXTINF:0,202 RTP 2
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/427.m3u8
-#EXTINF:0,203 SIC
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/426.m3u8
-#EXTINF:0,204 TVI
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/417.m3u8
-#EXTINF:0,205 RTP 3
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/674.m3u8
-#EXTINF:0,206 SIC NOTICIAS
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/424.m3u8
-#EXTINF:0,207 TVI 24
-http://iptv.temnet.pt:8000/live/manuel/manuel/12.m3u8
-#EXTINF:0,208 TVI FICCAO
-http://painel.soeu.ws:8000/live/artur/artur/213.m3u8
-#EXTINF:0,209 TVI REALITY
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/254.m3u8
-#EXTINF:0,210 CMTV
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/436.m3u8
-#EXTINF:0,211 ETV
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/211.m3u8
-#EXTINF:0,212 EURONEWS
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/701.m3u8
-#EXTINF:0,213 TPA
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/297.m3u8
-#EXTINF:0,214 SIC CARAS
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/258.m3u8
-#EXTINF:0,215 SIC RADICAL
-http://iptv.temnet.pt:8000/live/manuel/manuel/14.m3u8
-#EXTINF:0,216 SIC MULHER
-http://iptv.temnet.pt:8000/live/manuel/manuel/13.m3u8
-#EXTINF:0,217 SIC KIDS
-http://iptv.temnet.pt:8000/live/manuel/manuel/21.m3u8
-#EXTINF:0,218 PANDA BIGGS
-http://iptv.temnet.pt:8000/live/manuel/manuel/18.m3u8
-#EXTINF:0,219 DISNEY CHANNEL
-http://iptv.temnet.pt:8000/live/manuel/manuel/16.m3u8
-#EXTINF:0,220 DISNEY JR
-http://iptv.temnet.pt:8000/live/manuel/manuel/17.m3u8
-#EXTINF:0,221 CARTOON NETWORK
-http://iptv.temnet.pt:8000/live/manuel/manuel/44.m3u8
-#EXTINF:0,222 CANAL PANDA
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/438.m3u8
-#EXTINF:0,223 NICKELODEON
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/49.m3u8
-#EXTINF:0,224 JIM JAM
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/179.m3u8
-#EXTINF:0,225 BABY TV
-http://iptv.temnet.pt:8000/live/manuel/manuel/20.m3u8
-#EXTINF:0,226 E! ENTERTAINMENT
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/239.m3u8
-#EXTINF:0,227 CBS REALITY
-http://iptv.temnet.pt:8000/live/manuel/manuel/45.m3u8
-#EXTINF:0,228 FOX COMEDY
-http://iptv.temnet.pt:8000/live/manuel/manuel/41.m3u8
-#EXTINF:0,230 TLC
-http://iptv.temnet.pt:8000/live/manuel/manuel/58.m3u8
-#EXTINF:0,231 TRAVEL TV
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/299.m3u8
-#EXTINF:0,232 ODISSEIA
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/430.m3u8
-#EXTINF:0,233 SYFY
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/423.m3u8
-#EXTINF:0,234 FASHION TV HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/284.m3u8
-#EXTINF:0,235 24H KITCHEN HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/181.m3u8
-#EXTINF:0,236 NATIONAL GEOGRAPHIC HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/86.m3u8
-#EXTINF:0,237 DISCOVERY SHOWCASE HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/160.m3u8
-#EXTINF:0,238 DISCOVERY CHANNEL
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/442.m3u8
-#EXTINF:0,239 NATIONAL GEO WILD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/186.m3u8
-#EXTINF:0,240 HISTORIA
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/439.m3u8
-#EXTINF:0,241 TV RECORD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/422.m3u8
-#EXTINF:0,242 A BOLA TV
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/440.m3u8
-#EXTINF:0,243 EUROSPORT 1 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/690.m3u8
-#EXTINF:0,244 EUROSPORT 2
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/225.m3u8
-#EXTINF:0,245 PORTO CANAL
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/35.m3u8
-#EXTINF:0,246 AXN HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/88.m3u8
-#EXTINF:0,247 AXN WHITE HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/695.m3u8
-#EXTINF:0,248 AXN BLACK HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/82.m3u8
-#EXTINF:0,249 FOX HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/434.m3u8
-#EXTINF:0,250 FOX LIFE HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/85.m3u8
-#EXTINF:0,251 FOX CRIME HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/84.m3u8
-#EXTINF:0,252 FOX MOVIES
-http://iptv.temnet.pt:8000/live/manuel/manuel/59.m3u8
-#EXTINF:0,253 TVCINE 1 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/421.m3u8
-#EXTINF:0,254 TVCINE 2 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/420.m3u8
-#EXTINF:0,255 TVCINE 3 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/419.m3u8
-#EXTINF:0,256 TVCINE 4 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/418.m3u8
-#EXTINF:0,257 TVSERIES HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/38.m3u8
-#EXTINF:0,258 MOV HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/190.m3u8
-#EXTINF:0,259 CINEMUNDO
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/443.m3u8
-#EXTINF:0,260 HOLLYWOOD HD
-http://iptv.temnet.pt:8000/live/manuel/manuel/25.m3u8
-#EXTINF:0,261 AMC
-http://iptv.temnet.pt:8000/live/manuel/manuel/22.m3u8
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/63.m3u8‬
+#EXTINF:0,203 RTP 3
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/392.m3u8‬
+#EXTINF:0,204 SIC 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/64.m3u8‬
+#EXTINF:0,205 TVI 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/65.m3u8‬
+#EXTINF:0,206 TVI REALITY 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/398.m3u8‬
+#EXTINF:0,207 TV RECORD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/1.m3u8‬
+#EXTINF:0,208 GLOBO ZON 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/9.m3u8‬
+#EXTINF:0,209 GLOBO MEO 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/10.m3u8‬
+#EXTINF:0,210 GLOBO PREMIUM 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/393.m3u8‬
+#EXTINF:0,211 RTP MADEIRA 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/69.m3u8‬
+#EXTINF:0,212 RTP ACORES 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/399.m3u8‬
+#EXTINF:0,213 CANCAO NOVA 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/405.m3u8‬
+#EXTINF:0,214 SIC CARAS 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/34.m3u8‬
+#EXTINF:0,215 SIC MULHER 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/32.m3u8‬
+#EXTINF:0,216TVI FICCAO 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/20.m3u8‬
+#EXTINF:0,217 SIC NOTICIAS 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/71.m3u8‬
+#EXTINF:0,218 TVI24 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/19.m3u8‬
+#EXTINF:0,219 EURONEWS 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/89.m3u8‬
+#EXTINF:0,220 CM TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/50.m3u8‬
+#EXTINF:0,221 TV CINE 1 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/24.m3u8‬
+#EXTINF:0,222 TV CINE 2 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/23.m3u8‬
+#EXTINF:0,223 TV CINE 3 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/22.m3u8‬
+#EXTINF:0,224 TV CINE 4 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/21.m3u8‬
+#EXTINF:0,225 HOLLYWOOD HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/466.m3u8‬
+#EXTINF:0,226 HOLLYWOOD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/41.m3u8‬
+#EXTINF:0,227 MOV HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/38.m3u8‬
+#EXTINF:0,228 CINEMUNDO 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/51.m3u8‬
+#EXTINF:0,229 SYFY 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/3.m3u8‬
+#EXTINF:0,230 FOX MOVIES 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/43.m3u8‬
+#EXTINF:0,231 FOX LIFE HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/44.m3u8‬
+#EXTINF:0,232 FOX HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/45.m3u8‬
+#EXTINF:0,233 FOX CRIME HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/46.m3u8‬
+#EXTINF:0,234 AXN HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/59.m3u8‬
+#EXTINF:0,235 AXN WHITE HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/58.m3u8‬
+#EXTINF:0,236 AXN BLACK HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/60.m3u8‬
+#EXTINF:0,237 AMC 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/61.m3u8‬
+#EXTINF:0,238 TvSeries 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/18.m3u8‬
+#EXTINF:0,239 CBS REALITY 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/53.m3u8‬
+#EXTINF:0,240 KITCHEN HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/388.m3u8‬
+#EXTINF:0,241 TLC 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/2.m3u8‬
+#EXTINF:0,242 E! ENTERTAINEMENT 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/403.m3u8‬
+#EXTINF:0,243 CANAL Q 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/389.m3u8‬
+#EXTINF:0,244 SPORT TV 1 HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/31.m3u8‬
+#EXTINF:0,245 SPORT TV1 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/26.m3u8‬
+#EXTINF:0,246 SPORT TV 2 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/30.m3u8‬
+#EXTINF:0,247 SPORT TV 3 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/29.m3u8‬
+#EXTINF:0,248 SPORT TV 4 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/28.m3u8‬
+#EXTINF:0,249 SPORT TV 5 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/27.m3u8‬
+#EXTINF:0,250 SPORTV AMERICAS 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/438.m3u8‬
+#EXTINF:0,251 BTV 1 HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/17.m3u8‬
+#EXTINF:0,252 BTV 1 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/57.m3u8‬
+#EXTINF:0,253 BTV 2 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/56.m3u8‬
+#EXTINF:0,254 SPORTING TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/25.m3u8‬
+#EXTINF:0,255 PORTO CANAL 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/35.m3u8‬
+#EXTINF:0,256 PFC 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/36.m3u8‬
+#EXTINF:0,257 CHELSEA TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/52.m3u8‬
+#EXTINF:0,258 BARCA TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/468.m3u8‬
+#EXTINF:0,259 ABOLATV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/15.m3u8‬
+#EXTINF:0,260 EUROSPORT HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/47.m3u8‬
+#EXTINF:0,261 EUROSPORT 2 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/48.m3u8‬
+#EXTINF:0,262 MOTORVISION ( novo ) 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/461.m3u8‬
+#EXTINF:0,263 MOTORS TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/39.m3u8‬
+#EXTINF:0,264 FX PORTUGAL 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/42.m3u8‬
+#EXTINF:0,265 FUEL TV ( novo ) 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/464.m3u8‬
+#EXTINF:0,266 TOROS TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/413.m3u8‬
+#EXTINF:0,267 CACA E PESCA 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/12.m3u8‬
+#EXTINF:0,268 BABY TV 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/424.m3u8‬
+#EXTINF:0,269 DISNEY CHANNEL 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/49.m3u8‬
+#EXTINF:0,270 CANAL PANDA 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/55.m3u8‬
+#EXTINF:0,271 PANDA BIGGS 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/467.m3u8‬
+#EXTINF:0,272 CARTOON NETWORK 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/54.m3u8‬
+#EXTINF:0,273 DISNEY JUNIOR 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/391.m3u8‬
+#EXTINF:0,274 JIM JAM 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/40.m3u8‬
+#EXTINF:0,275 SIC K 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/33.m3u8‬
+#EXTINF:0,276 DISCOVERY CHANNEL 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/11.m3u8‬
+#EXTINF:0,277 DISCOVERY SHOWCASE HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/423.m3u8‬
+#EXTINF:0,278 ODISSEIA 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/4.m3u8‬
+#EXTINF:0,279 HISTORIA 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/8.m3u8‬
+#EXTINF:0,280 NAT.GEOGRAPHIC HD 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/5.m3u8‬
+#EXTINF:0,281 NATIONAL GEOGRAPHIC 
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/373.m3u8‬
+#EXTINF:0,282 NAT GEO WILD
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/6.m3u8‬
+#EXTINF:0,283 MTV PORTUGAL
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/7.m3u8‬
+#EXTINF:0,284 VH1
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/401.m3u8‬
+#EXTINF:0,285 MCM POP
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/402.m3u8‬
+#EXTINF:0,286 TRACE URBAN
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/404.m3u8‬
+#EXTINF:0,287 AFRO MUSIC
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/13.m3u8‬
+#EXTINF:0,288 AE
+‪http://concord.megdns.com:8000/live/antonio-pereira/i8765rfg42/14.m3u8‬
 
 #EXTINF:0,1000 - TF1 bis
 http://151.80.30.185:8000/live/mattia/mattia/1588.m3u8
