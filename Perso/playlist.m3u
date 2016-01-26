@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0,1 - TF1 HD
-http://satloveriptv.com:8090/live/pakistan/pakistan/3992.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/8619.m3u8
 #EXTINF:0,2 - France 2 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201
 #EXTINF:0,3 - France 3 (HD)
@@ -10,7 +10,7 @@ http://skyiptv.ddns.net:8000/live/unit1315/6521878/262.m3u8
 #EXTINF:0,5 - France 5 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203
 #EXTINF:0,6 - M6 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/272.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/2510.m3u8
 #EXTINF:0,7 - Arte (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204
 #EXTINF:0,8 - D8 (HD)
@@ -53,11 +53,11 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050
 
 #EXTINF:0,100 - beinHD Sport 1 FR
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/290.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7353.m3u8
 #EXTINF:0,101 - beinHD Sport 2 FR
-http://satloveriptv.com:8090/live/pakistan/pakistan/3962.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7354.m3u8
 #EXTINF:0,102 - beinHD Sport 3 FR
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/717.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7355.m3u8
 #EXTINF:0,103 - Sport TV 1
 http://iptv.temnet.pt:8000/live/manuel/manuel/32.m3u8
 #EXTINF:0,104 - Sport TV 2
@@ -78,9 +78,9 @@ http://iptv.temnet.pt:8000/live/manuel/manuel/37.m3u8
 #EXTINF:0,111 - CANAL + SPORT HD
 http://skyiptv.ddns.net:8000/live/unit1315/6521878/535.m3u8
 #EXTINF:0,112 - Ma Chaine Sport HD
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7416.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7359.m3u8
 #EXTINF:0,113 - Eurosport
-http://cdn.step-tv.com:8000/live/363636/363636/858.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7356.m3u8
 #EXTINF:0,114 - Eurosport 2
 http://cdn.step-tv.com:8000/live/363636/363636/260.m3u8
 
@@ -95,7 +95,7 @@ http://skyiptv.ddns.net:8000/live/unit1315/6521878/287.m3u8
 #EXTINF:0,119 - Disney Cinemagic
 http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/4678.m3u8
 #EXTINF:0,120 - OCS City
-http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4725.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7390.m3u8
 #EXTINF:0,121 - OCS Max
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4722.m3u8
 #EXTINF:0,122 - OCS Geant HD
@@ -113,17 +113,17 @@ http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4729.m3u8
 #EXTINF:0,128 - Serie Club
 http://bstream.starsplanet.org:8000/live/T5Z3JxMimo/WoGu1RDm5E/4740.m3u8
 #EXTINF:0,132 - A LA CARTE 2
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7363.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7363.m3u8
 #EXTINF:0,133 - A LA CARTE 3
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7364.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7364.m3u8
 #EXTINF:0,134 - A LA CARTE 4
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7365.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7365.m3u8
 #EXTINF:0,136 - A LA CARTE 6
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7367.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7367.m3u8
 #EXTINF:0,137 - A LA CARTE 7
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7368.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7368.m3u8
 #EXTINF:0,140 - A LA CARTE 10
-http://luckyiptv.ddns.net:23000/live/giovanni1/giovanni1/7371.m3u8
+http://luckyiptv.ddns.net:23000/live/fausto/fausto/7371.m3u8
 
 #EXTINF:0,160 - Disney Channel
 http://cdn.step-tv.com:8000/live/363636/363636/254.m3u8
